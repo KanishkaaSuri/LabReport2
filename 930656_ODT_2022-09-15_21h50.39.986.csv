@@ -1,0 +1,14 @@
+﻿,Respond Yes,Respond No,,prop hit = hit/hit + miss,,d prime = z(prop hit) - z(prop fa)
+Signal Present ,Hit,Miss ,,prop fa= fa/fa+cr,,c = z (prop hit) + z (prop fa)/2 
+Signal Absent ,False Alarm,Correct Rejection ,,,,
+,,,,,,
+,,,,,,
+,Respond Yes,Respond No,,,,
+Signal Present ,43,1,,,,
+Signal Absent ,23,33,,,,
+,,,,,,
+,,,,,,
+Proportion hit ,0.977272727,,,,,
+Proportion false alarm  ,0.410714286,,,,,
+D prime ,2.226131523,,,,,
+Criterion C ,-1.113065761,,,,,
